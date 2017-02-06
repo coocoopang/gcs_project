@@ -1,4 +1,4 @@
- test file~
+﻿ test file~
  2 line
  3 line
  4 line
@@ -7,5 +7,4 @@
 
 project2 에서 추가한 작업
 언어셋 수정
-project - modify
 project - modify - 2
