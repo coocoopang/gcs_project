@@ -7,4 +7,4 @@
 
 project2 에서 추가한 작업
 언어셋 수정
-project - modify
+project2 - modify - 2
