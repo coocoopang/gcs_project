@@ -7,4 +7,6 @@
 
 project2 에서 추가한 작업
 언어셋 수정
+project - modify - 2
 project2 - modify - 2
+prj2 - mdf
