@@ -5,3 +5,4 @@ myfile-txt
 
 line insert
 line 3 insert
+pull : get remote repo
