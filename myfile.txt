@@ -4,3 +4,4 @@ asdfljasldfkjas
 myfile-txt
 
 line insert
+pull : get remote repo
